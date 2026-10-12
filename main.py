@@ -1,9 +1,4 @@
-# ============================================================
-#  VOUCH TUTORIAL  -  /tutorialvouch
-#  Pannello unico professionale (Discord Components V2)
-#  Requisiti:  py -m pip install -U discord.py   (2.6 o superiore)
-#  Avvio:      py main.py
-# ============================================================
+
 
 import io
 import os
